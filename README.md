@@ -1,2 +1,8 @@
 # ml-from-scratch
-A collection of machine learning algorithms implemented from scratch with NumPy, focusing on understanding the mathematics and implementation details behind neural networks.
+# Notebook	Status
+Single-Layer Perceptron	✅
+Logistic Regression	🚧
+Two-Layer Neural Network 🚧	
+Deep Neural Network (L Layers) 🚧
+CNN (coming soon)	🚧
+RNN (coming soon)	🚧
