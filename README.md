@@ -8,7 +8,7 @@ A collection of machine learning and deep learning models implemented from scrat
 |-----------|--------|
 | 01 - Single-Layer Perceptron | ✅ Completed |
 | 02 - Logistic Regression | ✅ Completed |
-| 03 - Neural Network (1 Hidden Layer) | 🚧 In Progress |
+| 03 - Neural Network (1 Hidden Layer) | ✅ Completed |
 | 04 - Neural Network (2 Hidden Layers) | 🚧 Planned |
 | 05 - Deep Neural Network (L Layers) | 🚧 Planned |
 | CNN (Coming Soon) | 🚧 Planned |
