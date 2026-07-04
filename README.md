@@ -2,6 +2,14 @@
 
 A collection of machine learning and deep learning models implemented from scratch using NumPy.
 
+## Project Philosophy
+
+The goal of this repository is not to achieve state-of-the-art performance or extensively tune hyperparameters.
+
+Instead, the objective is to understand and implement machine learning and deep learning algorithms from scratch using NumPy, while progressively exploring different neural network architectures on the same classification problem.
+
+By keeping the task relatively consistent across notebooks, it becomes easier to observe how each model behaves, understand its strengths and limitations, and learn the underlying mathematical concepts behind modern deep learning.
+
 ## Project Progress
 
 | Notebook | Status |
@@ -9,7 +17,7 @@ A collection of machine learning and deep learning models implemented from scrat
 | 01 - Single-Layer Perceptron | ✅ Completed |
 | 02 - Logistic Regression | ✅ Completed |
 | 03 - Neural Network with One Hidden Layer | ✅ Completed |
-| 04 - Deep Neural Network (L Layers) | 🚧 In Progress |
+| 04 - Deep Neural Network (L Layers) | ✅ Completed |
 | 05 - Convolutional Neural Networks (CNN) | 🚧 Planned |
 | 06 - Recurrent Neural Networks (RNN) | 🚧 Planned |
 
