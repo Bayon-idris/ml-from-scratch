@@ -30,8 +30,9 @@ This repository documents my learning journey from simple linear models to more 
 | 02 - Logistic Regression | ✅ Completed |
 | 03 - Neural Network with One Hidden Layer | ✅ Completed |
 | 04 - Deep Neural Network (L Layers) | ✅ Completed |
-| 05 - Convolutional Neural Networks (CNN) | 🚧 Planned |
-| 06 - Recurrent Neural Networks (RNN) | 🚧 Planned |
+| 05 - Convolutional Operations No DL Frameworks | ✅ Completed |
+| 06 - Convolutional Neural Networks (CNN) | 🚧 Planned |
+| 07 - Recurrent Neural Networks (RNN) | 🚧 Planned |
 
 ---
 

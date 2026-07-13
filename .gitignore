@@ -1,5 +1,6 @@
-/__pycache__
-/.ipynb_checkpoints
-/test/*
-*/ipynb_checkpoints/*
-*/utilities/__pycache__/*
+__pycache__/
+*/__pycache__/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+test/*
+*/utilities/__pycache__/
